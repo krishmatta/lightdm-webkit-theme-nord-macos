@@ -1,14 +1,14 @@
 @font-face {
-    font-family: 'ArilloUI';
-    src: url('resources/font/Arillo_UI_Regular.ttf') format('truetype');
+    font-family: 'Fira Sans';
+    src: url('resources/font/FiraSans-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 
 * {
-  font: normal 100% "ArilloUI";
-  font-family: Arial, Helvetica, 'ArilloUI', sans-serif;
+  font: normal 100% "Fira Sans";
+  font-family: 'Fira Sans';
 cursor: default;
 }
 
