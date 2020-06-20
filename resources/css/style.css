@@ -149,13 +149,6 @@ float: left;
   opacity: 0.5;
 }
 
-.user_image_wrapper {
-  border-radius: 80px;
-  border: 2px solid #fff;
-  -webkit-transition: all 0.3s ease-in-out;
-  margin:10px;
-}
-
 .user_image {
   border-radius: 60px;
 }
